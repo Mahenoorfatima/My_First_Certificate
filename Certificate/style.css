@@ -1,0 +1,25 @@
+body{
+    position: fixed;
+    top: 20px;
+    display: block;
+    position: relative;
+    
+}
+
+h1{
+    text-shadow: rgb(30, 93, 228) 1px 0 10px;
+    text-decoration-line: underline;
+    font-family: cursive;
+    justify-content: center;
+    text-align: center;
+}
+
+.pic{
+    justify-content: center;
+    text-align: center;
+}
+
+img{
+    border: 2px solid black;
+    width: 500px;
+}
